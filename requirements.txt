@@ -16,4 +16,5 @@ scipy==1.4.1
 seaborn==0.9.0
 six==1.11.0
 wincertstore==0.2
+nltk==3.4.5
 
